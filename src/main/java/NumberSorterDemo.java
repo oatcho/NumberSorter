@@ -1,6 +1,8 @@
 import java.util.ArrayList;
 import java.util.Collections;
 
+import static com.sun.tools.doclint.Entity.sum;
+
 public class NumberSorterDemo {
 
     private int firstNumber;
@@ -31,11 +33,12 @@ public class NumberSorterDemo {
         Collections.reverse(sortingArray);
     }
 
-    public void returnAverageOfArrayListCollection(){
-
+    public double returnAverageOfArrayListCollection(){
+        double sum = 0;
+        for (Integer sortLoop: sortingArray) {
+            sum += sortLoop; }
+        return sum;
     }
-
-
 
 
 }
