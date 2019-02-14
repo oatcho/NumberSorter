@@ -12,8 +12,6 @@
       <change afterPath="$PROJECT_DIR$/../CanoeApplication/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../CanoeApplication/src/main/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../CanoeApplication/src/main/java/CanoeMainDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/NumberSorterDemo.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../fizzbuzz/.idea/encodings.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../fizzbuzz/.idea/gradle.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../fizzbuzz/.idea/misc.xml" afterDir="false" />
@@ -39,6 +37,8 @@
       <change beforePath="$PROJECT_DIR$/../Library Exercise Refactored/src/com/company/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Library Exercise Refactored/src/com/company/Book.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Library Exercise Refactored/src/com/company/Library.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Library Exercise Refactored/src/com/company/Library.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Make A Shape" beforeDir="false" afterPath="$PROJECT_DIR$/../Make A Shape" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/NumberSorterDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/NumberSorterDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../StringPractice/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../StringPractice/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../StringPractice/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../StringPractice/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../StringPractice/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../StringPractice/src/com/company/Main.java" afterDir="false" />
@@ -72,8 +72,18 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/NumberSorterDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+            <state relative-caret-position="390">
+              <caret line="26" column="24" selection-start-line="26" selection-start-column="24" selection-end-line="26" selection-end-column="24" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#201#210#0" expanded="true" />
+                <element signature="e#504#505#0" expanded="true" />
+                <element signature="e#530#531#0" expanded="true" />
+                <element signature="e#601#602#0" expanded="true" />
+                <element signature="e#633#634#0" expanded="true" />
+                <element signature="e#688#689#0" expanded="true" />
+                <element signature="e#714#715#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -88,7 +98,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -137,7 +147,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550155673117" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550156515650" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -163,12 +173,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1550155253786</updated>
-      <workItem from="1550155259709" duration="413000" />
+      <workItem from="1550155259709" duration="1153000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="413000" />
+    <option name="totallyTimeSpent" value="1153000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="6" />
@@ -179,10 +189,10 @@
       <window_info id="Capture Tool" />
       <window_info id="UI Designer" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24959612" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24959612" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Build" visible="true" weight="0.28356165" />
-      <window_info anchor="bottom" id="Terminal" />
+      <window_info active="true" anchor="bottom" id="Build" visible="true" weight="0.28356165" />
+      <window_info anchor="bottom" id="Terminal" weight="0.32876712" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" />
@@ -212,8 +222,18 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/main/java/NumberSorterDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+        <state relative-caret-position="390">
+          <caret line="26" column="24" selection-start-line="26" selection-start-column="24" selection-end-line="26" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#201#210#0" expanded="true" />
+            <element signature="e#504#505#0" expanded="true" />
+            <element signature="e#530#531#0" expanded="true" />
+            <element signature="e#601#602#0" expanded="true" />
+            <element signature="e#633#634#0" expanded="true" />
+            <element signature="e#688#689#0" expanded="true" />
+            <element signature="e#714#715#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
