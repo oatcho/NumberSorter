@@ -12,6 +12,15 @@
       <change afterPath="$PROJECT_DIR$/../CanoeApplication/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../CanoeApplication/src/main/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../CanoeApplication/src/main/java/CanoeMainDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DanceableExercise/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DanceableExercise/src/com/company/AnnaSophia.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DanceableExercise/src/com/company/Danceable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DanceableExercise/src/com/company/MarcCuban.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/NumberSorterTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UnitTestingGarbageProgram/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UnitTestingGarbageProgram/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UnitTestingGarbageProgram/src/com/company/methods.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../fizzbuzz/.idea/encodings.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../fizzbuzz/.idea/gradle.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../fizzbuzz/.idea/misc.xml" afterDir="false" />
@@ -37,6 +46,7 @@
       <change beforePath="$PROJECT_DIR$/../Library Exercise Refactored/src/com/company/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Library Exercise Refactored/src/com/company/Book.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Library Exercise Refactored/src/com/company/Library.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Library Exercise Refactored/src/com/company/Library.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Make A Shape" beforeDir="false" afterPath="$PROJECT_DIR$/../Make A Shape" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/NumberSorterDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/NumberSorterDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../StringPractice/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../StringPractice/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../StringPractice/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../StringPractice/.idea/workspace.xml" afterDir="false" />
@@ -68,22 +78,30 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/NumberSorterDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="331">
-              <caret line="38" column="34" lean-forward="true" selection-start-line="38" selection-start-column="34" selection-end-line="38" selection-end-column="34" />
+            <state relative-caret-position="190">
+              <caret line="29" column="25" selection-start-line="29" selection-start-column="25" selection-end-line="29" selection-end-column="25" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#201#210#0" expanded="true" />
-                <element signature="e#504#505#0" expanded="true" />
-                <element signature="e#530#531#0" expanded="true" />
+                <element signature="e#586#587#0" expanded="true" />
+                <element signature="e#638#639#0" expanded="true" />
                 <element signature="e#601#602#0" expanded="true" />
                 <element signature="e#633#634#0" expanded="true" />
-                <element signature="e#688#689#0" expanded="true" />
-                <element signature="e#714#715#0" expanded="true" />
-                <element signature="e#784#785#0" expanded="true" />
-                <element signature="e#810#811#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/NumberSorterTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-19">
+              <caret line="13" column="56" lean-forward="true" selection-start-line="13" selection-start-column="56" selection-end-line="13" selection-end-column="56" />
+              <folding>
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -104,7 +122,9 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/src/main/java/NumberSorterDemoTestClass.java" />
         <option value="$PROJECT_DIR$/src/main/java/NumberSorterDemo.java" />
+        <option value="$PROJECT_DIR$/src/test/java/NumberSorterTest.java" />
       </list>
     </option>
   </component>
@@ -113,7 +133,9 @@
     <option name="width" value="1280" />
     <option name="height" value="721" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -138,6 +160,26 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
             </path>
+            <path>
+              <item name="NumberSorter" type="b2602c69:ProjectViewProjectNode" />
+              <item name="NumberSorter" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="NumberSorter" type="b2602c69:ProjectViewProjectNode" />
+              <item name="NumberSorter" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="NumberSorter" type="b2602c69:ProjectViewProjectNode" />
+              <item name="NumberSorter" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -148,7 +190,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550157155587" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550173340479" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -164,6 +206,33 @@
       </list>
     </option>
   </component>
+  <component name="RunManager" selected="JUnit.NumberSorterTest">
+    <configuration name="NumberSorterTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="com.detroitlabs.NumberSorter.test" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="NumberSorterTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NumberSorterTest.shouldReturnAverageOfArrayListCollection" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="com.detroitlabs.NumberSorter.test" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="NumberSorterTest" />
+      <option name="METHOD_NAME" value="shouldReturnAverageOfArrayListCollection" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.NumberSorterTest" />
+        <item itemvalue="JUnit.NumberSorterTest.shouldReturnAverageOfArrayListCollection" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -174,12 +243,29 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1550155253786</updated>
-      <workItem from="1550155259709" duration="1682000" />
+      <workItem from="1550155259709" duration="11487000" />
     </task>
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="NumberSorterTest - 2019.02.14 at 11h 51m 47s.xml">
+      <configuration name="NumberSorterTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="NumberSorterTest - 2019.02.14 at 11h 55m 04s.xml">
+      <configuration name="NumberSorterTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="NumberSorterTest - 2019.02.14 at 14h 24m 15s.xml">
+      <configuration name="NumberSorterTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="NumberSorterTest - 2019.02.14 at 14h 25m 12s.xml">
+      <configuration name="NumberSorterTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="NumberSorterTest - 2019.02.14 at 14h 33m 03s.xml">
+      <configuration name="NumberSorterTest" configurationId="JUnit" />
+    </history-entry>
+  </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1682000" />
+    <option name="totallyTimeSpent" value="11487000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="6" />
@@ -193,14 +279,15 @@
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24959612" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Build" weight="0.28356165" />
-      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.32876712" />
+      <window_info anchor="bottom" id="Terminal" weight="0.32876712" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" weight="0.32876712" />
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32876712" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -221,21 +308,34 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/NumberSorterDemoTestClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="16" selection-start-column="16" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/NumberSorterDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="331">
-          <caret line="38" column="34" lean-forward="true" selection-start-line="38" selection-start-column="34" selection-end-line="38" selection-end-column="34" />
+        <state relative-caret-position="190">
+          <caret line="29" column="25" selection-start-line="29" selection-start-column="25" selection-end-line="29" selection-end-column="25" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#201#210#0" expanded="true" />
-            <element signature="e#504#505#0" expanded="true" />
-            <element signature="e#530#531#0" expanded="true" />
+            <element signature="e#586#587#0" expanded="true" />
+            <element signature="e#638#639#0" expanded="true" />
             <element signature="e#601#602#0" expanded="true" />
             <element signature="e#633#634#0" expanded="true" />
-            <element signature="e#688#689#0" expanded="true" />
-            <element signature="e#714#715#0" expanded="true" />
-            <element signature="e#784#785#0" expanded="true" />
-            <element signature="e#810#811#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/NumberSorterTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-19">
+          <caret line="13" column="56" lean-forward="true" selection-start-line="13" selection-start-column="56" selection-end-line="13" selection-end-column="56" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>

@@ -17,28 +17,29 @@ public class NumberSorterDemo {
         sortingArray.add(thirdNumber);
         }
 
-    public void returnLargestNumberInArray(){
-        Collections.max(sortingArray);
+    public Integer returnLargestNumberInArray(){
+        return Collections.max(sortingArray);
     }
 
-    public void returnSmallestNumberInArray(){
-        Collections.min(sortingArray);
+    public Integer returnSmallestNumberInArray(){
+        return Collections.min(sortingArray);
     }
 
-    public void sortFromSmallestToLargest(){
+    public ArrayList<Integer> sortFromSmallestToLargest(){
         Collections.sort(sortingArray);
+        return sortingArray;
     }
 
-    public void sortFromLargestToSmallest(){
+    public ArrayList<Integer> sortFromLargestToSmallest(){
         Collections.reverse(sortingArray);
+        return sortingArray;
     }
 
     public double returnAverageOfArrayListCollection(){
         double sum = 0;
-        for (Integer sortLoop: sortingArray) {
-            sum += sortLoop; }
-        return sum;
+        for (double averagingArrayLoop: sortingArray) {
+            sum += averagingArrayLoop; }
+        return sum/sortingArray.size();
     }
-
 
 }
