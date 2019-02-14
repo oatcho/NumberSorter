@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c8c72e15-cd7a-4f18-8609-5546c75a6ab7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../CalculatorUnitTestDemo/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CalculatorUnitTestDemo/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CalculatorUnitTestDemo/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CalculatorUnitTestDemo/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CalculatorUnitTestDemo/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CalculatorUnitTestDemo/src/main/java/CalculatorMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CalculatorUnitTestDemo/src/test/java/CalculatorMethodsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CanoeApplication/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CanoeApplication/src/main/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CanoeApplication/src/main/java/CanoeMainDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/NumberSorterDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fizzbuzz/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fizzbuzz/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fizzbuzz/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fizzbuzz/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fizzbuzz/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fizzbuzz/src/main/java/FizzBuzz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fizzbuzz/src/test/java/FizzBuzzTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AccessControl/src/com/company/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/../AccessControl/src/com/company/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AreaCalculator" beforeDir="false" afterPath="$PROJECT_DIR$/../AreaCalculator" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArrayPractice" beforeDir="false" afterPath="$PROJECT_DIR$/../ArrayPractice" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CarProgram" beforeDir="false" afterPath="$PROJECT_DIR$/../CarProgram" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExceptionHandling/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ExceptionHandling/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExceptionHandling/src/com/company/Attendee.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ExceptionHandling/src/com/company/Attendee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExceptionHandling/src/com/company/AttendeeManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ExceptionHandling/src/com/company/AttendeeManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloWorld/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HelloWorld/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloWorld/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HelloWorld/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloWorld/out/production/HelloWorld/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../HelloWorld/out/production/HelloWorld/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloWorld/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HelloWorld/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance Practice/src/com/company/Apple.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Inheritance Practice/src/com/company/Apple.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance Practice/src/com/company/Fruit.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Inheritance Practice/src/com/company/Fruit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library Exercise Refactored 2/src/com/company/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Library Exercise Refactored 2/src/com/company/Book.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library Exercise Refactored 2/src/com/company/Library.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Library Exercise Refactored 2/src/com/company/Library.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library Exercise Refactored/src/com/company/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Library Exercise Refactored/src/com/company/Book.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library Exercise Refactored/src/com/company/Library.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Library Exercise Refactored/src/com/company/Library.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Make A Shape" beforeDir="false" afterPath="$PROJECT_DIR$/../Make A Shape" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StringPractice/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../StringPractice/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StringPractice/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../StringPractice/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StringPractice/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../StringPractice/src/com/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Student Inheritance/src/com/company/BandMember.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Student Inheritance/src/com/company/BandMember.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Student Inheritance/src/com/company/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Student Inheritance/src/com/company/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WelcomeToTheZoo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../WelcomeToTheZoo/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WelcomeToTheZoo/src/com/company/Zoo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../WelcomeToTheZoo/src/com/company/Zoo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../adventureGame" beforeDir="false" afterPath="$PROJECT_DIR$/../adventureGame" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercise8.0/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../exercise8.0/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercise8.0/out/production/exercise8.0/com/company/Sandwich.class" beforeDir="false" afterPath="$PROJECT_DIR$/../exercise8.0/out/production/exercise8.0/com/company/Sandwich.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercise8.0/out/production/exercise8.0/com/company/SandwichMaker.class" beforeDir="false" afterPath="$PROJECT_DIR$/../exercise8.0/out/production/exercise8.0/com/company/SandwichMaker.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercise8.0/src/com/company/Sandwich.java" beforeDir="false" afterPath="$PROJECT_DIR$/../exercise8.0/src/com/company/Sandwich.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercise8.0/src/com/company/SandwichMaker.java" beforeDir="false" afterPath="$PROJECT_DIR$/../exercise8.0/src/com/company/SandwichMaker.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/.gradle/" />
+    <ignored path="$PROJECT_DIR$/build/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/NumberSorterDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/NumberSorterDemo.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
+    <option name="y" value="23" />
+    <option name="width" value="1280" />
+    <option name="height" value="721" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="NumberSorter" type="b2602c69:ProjectViewProjectNode" />
+              <item name="NumberSorter" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="NumberSorter" type="b2602c69:ProjectViewProjectNode" />
+              <item name="NumberSorter" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="NumberSorter" type="b2602c69:ProjectViewProjectNode" />
+              <item name="NumberSorter" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550155673117" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c8c72e15-cd7a-4f18-8609-5546c75a6ab7" name="Default Changelist" comment="" />
+      <created>1550155253786</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1550155253786</updated>
+      <workItem from="1550155259709" duration="413000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="413000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1280" height="800" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Designer" />
+      <window_info id="Image Layers" />
+      <window_info id="Capture Tool" />
+      <window_info id="UI Designer" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24959612" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Build" visible="true" weight="0.28356165" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Gradle" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/NumberSorterDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
